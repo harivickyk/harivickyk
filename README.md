@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harivickyk
-- 👀 I’m interested in Learning new stuffs and code till feeling sleepy
+- 👀 I’m interested in Learning new stuffs and to code new tech
 - 🌱 I’m currently learning Angular and .NET CORE
 - 💞️ I’m looking to collaborate on any new exciting projects that helps us explore and learn new stuffs
 - 📫 How to reach me - https://www.linkedin.com/in/harivickyk/
